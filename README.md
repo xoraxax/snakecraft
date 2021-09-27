@@ -4,7 +4,7 @@ Have you ever felt writing Terraform code was very verbose? Have you ever dislik
 
 Snakecraft allows you to write your Terraform configuration in Python and generate the necessary Terraform code (as a `.tf.json` file).
 
-Python 3.6 is required at least.
+Python 3.6 is required at least. [Terraform](https://terraform.io/) 0.12 is required at least.
 
 ## Installing and running Snakecraft
 
