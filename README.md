@@ -15,7 +15,7 @@ pip install -U snakecraft
 ```
 
 Afterwards, you can author Snakecraft modules/packages in Python code. If you want to
-dive into Snakecraft by reading the [examples](./examples), you can clone them from Github
+dive into Snakecraft by reading the [examples](https://github.com/xoraxax/snakecraft/tree/main/examples), you can clone them from Github
 and process them using Snakecraft:
 
 ```bash
